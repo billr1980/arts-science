@@ -1,5 +1,6 @@
 
 
+
 .image-title {
 	text-align: center;
 }
@@ -10,5 +11,6 @@
 }
 
 .art-description {
+	font-family: "Cormorant Garamond", Georgia, Times New Roman, serif;
 	font-size: larger;
 }
