@@ -1,6 +1,14 @@
 
 
+.image-title {
+	text-align: center;
+}
+
 .art-summary {
 	font-weight: bold;
 	text-align: center;
+}
+
+.art-description {
+	font-size: larger;
 }
