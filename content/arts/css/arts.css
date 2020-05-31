@@ -15,6 +15,15 @@
 	font-size: larger;
 }
 
+
+/***
+https://stackoverflow.com/questions/37692267/wrapping-an-image-in-a-link-in-a-bootstrap-row
+Bootstrap's columns are floating by default with css float property. 
+With float we can't middle align columns. However with display: inline-block we can. 
+All we need is to remove float from styles of columns and change them to 
+inline-block with vertical-align: middle and you will get what you want. 
+But don't forget to remove extra space that comes with inline-block.
+***/
 .vertical-align {
   letter-spacing: -4px;
   font-size: 0;
