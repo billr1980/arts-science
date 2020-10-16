@@ -27,6 +27,13 @@
 	font-size: larger;
 }
 
+.film-blurb {
+	text-align: center;
+}
+
+.film-blurb-source {
+	text-align: center;
+}
 
 .card-title {
 	font-family: "Cormorant Garamond", Georgia, Times New Roman, serif;
