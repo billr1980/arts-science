@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\content",
+    "\\content\\film",
+    "\\content\\film\\assets"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\MM_gallery.html",
   "PreviewInSolutionExplorer": false
 }
