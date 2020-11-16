@@ -2,3 +2,6 @@
 .vs/arts-science/config/applicationhost.config
 .vs/ProjectSettings.json
 .vs/slnx.sqlite
+/content/arts/.DS_Store
+/content/.DS_Store
+/.DS_Store
