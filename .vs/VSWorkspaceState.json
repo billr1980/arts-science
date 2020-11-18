@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\content",
-    "\\content\\arts",
+    "\\content\\arts\\css",
+    "\\content\\film",
     "\\content\\film\\assets"
   ],
-  "SelectedNode": "\\content\\arts\\HammeringMan_detail.html",
+  "SelectedNode": "\\film_gallery.html",
   "PreviewInSolutionExplorer": false
 }
