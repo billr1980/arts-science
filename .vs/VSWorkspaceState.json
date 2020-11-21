@@ -2,10 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\content",
+    "\\content\\arts",
     "\\content\\arts\\css",
-    "\\content\\film",
-    "\\content\\film\\assets"
+    "\\content\\film"
   ],
-  "SelectedNode": "\\film_gallery.html",
+  "SelectedNode": "\\content\\film\\CarAlarmBGone_detail.html",
   "PreviewInSolutionExplorer": false
 }
