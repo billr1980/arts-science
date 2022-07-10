@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\content",
-    "\\content\\arts"
+    "\\content\\arts",
+    "\\content\\arts\\assets"
   ],
-  "SelectedNode": "\\content\\arts\\assets",
+  "SelectedNode": "\\content\\arts\\assets\\SmilinSquatch_small.jpg",
   "PreviewInSolutionExplorer": false
 }
