@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\content"
+    "\\assets",
+    "\\content",
+    "\\content\\film"
   ],
-  "SelectedNode": "\\MM_gallery.html",
+  "SelectedNode": "\\content\\film\\SouthBaghdad_detail.html",
   "PreviewInSolutionExplorer": false
 }
