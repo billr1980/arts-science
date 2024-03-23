@@ -3,8 +3,9 @@
     "",
     "\\assets",
     "\\content",
-    "\\content\\arts"
+    "\\content\\arts",
+    "\\content\\film"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\content\\arts\\SalmanBBQ_detail.html",
   "PreviewInSolutionExplorer": false
 }
