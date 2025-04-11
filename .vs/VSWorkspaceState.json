@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\content",
+    "\\content\\arts",
+    "\\content\\arts\\assets"
   ],
-  "SelectedNode": "\\RFeins_books.html",
+  "SelectedNode": "\\content\\arts\\assets\\MKT_Inspiration_640w480h.png",
   "PreviewInSolutionExplorer": false
 }
