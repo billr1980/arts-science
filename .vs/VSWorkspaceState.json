@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\content",
-    "\\content\\arts"
+    "\\content\\arts",
+    "\\content\\arts\\assets"
   ],
-  "SelectedNode": "\\content\\arts\\MKT_CallForArt.html",
+  "SelectedNode": "\\content\\arts\\assets",
   "PreviewInSolutionExplorer": false
 }
