@@ -1,10 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\content",
-    "\\content\\arts",
-    "\\content\\arts\\assets"
+    "\\content\\arts"
   ],
-  "SelectedNode": "\\content\\arts\\assets",
+  "SelectedNode": "\\ContactInfo.html",
   "PreviewInSolutionExplorer": false
 }
