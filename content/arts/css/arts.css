@@ -4,12 +4,98 @@
 	text-align: center;
 }
 
+.main-container {
+	padding-bottom: 3rem;
+}
+
+.event-page {
+	max-width: 1100px;
+}
+
+.event-intro {
+	margin-bottom: 2rem;
+	font-size: 1.05rem;
+	letter-spacing: 0.04em;
+	text-transform: uppercase;
+	color: #495057;
+}
+
+.event-card {
+	display: grid;
+	grid-template-columns: minmax(180px, 240px) minmax(0, 1fr);
+	gap: 2rem;
+	margin-bottom: 1.75rem;
+	padding: 1.5rem;
+	background: rgba(248, 249, 250, 0.9);
+	border: 1px solid rgba(52, 58, 64, 0.12);
+	border-radius: 12px;
+	box-shadow: 0 6px 24px rgba(0, 0, 0, 0.04);
+}
+
+.event-meta {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	padding-right: 1.25rem;
+	border-right: 1px solid rgba(52, 58, 64, 0.18);
+}
+
+.event-date {
+	display: block;
+	margin-bottom: 0.75rem;
+	font-size: 1.15rem;
+	font-weight: 700;
+	line-height: 1.4;
+	color: #212529;
+}
+
+.event-location {
+	display: block;
+	font-size: 0.95rem;
+	letter-spacing: 0.05em;
+	text-transform: uppercase;
+	color: #6c757d;
+}
+
+.event-content {
+	min-width: 0;
+}
+
 .event-title {
-	display: table;
-	margin: 1.5rem auto;
-	padding: 0.5rem 2rem;
+	display: inline-block;
+	margin: 0 0 1rem;
+	padding: 0.5rem 0;
 	border-top: 3px double #343a40;
 	border-bottom: 3px double #343a40;
+	font-size: clamp(1.5rem, 2vw, 2.3rem);
+	line-height: 1.2;
+	text-transform: uppercase;
+	letter-spacing: 0.02em;
+}
+
+.event-title a {
+	color: #212529;
+	text-decoration: none;
+}
+
+.event-title a:hover {
+	color: #000;
+	text-decoration: underline;
+}
+
+.event-detail {
+	margin: 0.2rem 0;
+	font-size: 1.05rem;
+	line-height: 1.6;
+	color: #212529;
+}
+
+.event-media {
+	margin-top: 1rem;
+}
+
+.video-container {
+	padding: 0;
 }
 
 .art-image {
@@ -30,6 +116,25 @@
 .card-title {
 	font-family: "Cormorant Garamond", Georgia, Times New Roman, serif;
 	font-size: larger;
+}
+
+@media (max-width: 767px) {
+	.event-card {
+		grid-template-columns: 1fr;
+		gap: 1rem;
+		padding: 1.25rem;
+	}
+
+	.event-meta {
+		padding-right: 0;
+		padding-bottom: 1rem;
+		border-right: none;
+		border-bottom: 1px solid rgba(52, 58, 64, 0.18);
+	}
+
+	.event-title {
+		font-size: 1.6rem;
+	}
 }
 
 
