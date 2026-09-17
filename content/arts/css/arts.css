@@ -74,13 +74,14 @@
 }
 
 .event-title a {
-	color: #212529;
-	text-decoration: none;
+	color: #0056b3;
+	text-decoration: underline;
+	text-decoration-thickness: 2px;
+	text-underline-offset: 0.15em;
 }
 
 .event-title a:hover {
-	color: #000;
-	text-decoration: underline;
+	color: #003d80;
 }
 
 .event-detail {
