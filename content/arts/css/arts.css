@@ -103,6 +103,14 @@
 	text-align: center;
 }
 
+.art-image img {
+	width: auto;
+	height: auto;
+	max-width: 100%;
+	max-height: calc(100vh - 13rem);
+	object-fit: contain;
+}
+
 
 .art-summary {
 	font-weight: bold;
